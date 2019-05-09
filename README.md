@@ -14,6 +14,7 @@
 #### Slicers include State, Zip, ID, Term, Grade, Sub-Grade, Employer, Employer Length, Home Ownership, Verification Status, Loan Status, and Loan Purpose.
 ![Lending_Club_Loans_Analysis_Slicers](https://user-images.githubusercontent.com/19572673/57423158-d4e68180-71e0-11e9-9f81-4caaeed99774.PNG)
 #### Tabular reports include by State, Zip, Loan Grade, Loan Sub-Grade Metrics, Employer Length, Home Ownership, Loan Purpose, Loan Status, and by specific ID. 
+![Lending_Club_Loans_Analysis_Reports](https://user-images.githubusercontent.com/19572673/57493298-52b69580-7292-11e9-9f7a-377d8807c6a4.PNG)
 #### Calculated measures (KPIs):
 ##### _Average_Income = sum(LoanData[annual_inc])/count(LoanData[id])
 ##### _Average_Int_Rate = sum(LoanData[int_rate])/count(LoanData[id])
