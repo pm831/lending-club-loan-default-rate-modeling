@@ -19,3 +19,4 @@
 ##### _Average_Int_Rate = sum(LoanData[int_rate])/count(LoanData[id])
 ##### _Average_Loan_Amount = sum(LoanData[loan_amnt])/count(LoanData[id])
 ##### _Average_DTI_Amount = sum(LoanData[dti])/count(LoanData[id])
+![Lending_Club_Loans_Analysis_KPIs](https://user-images.githubusercontent.com/19572673/57493380-9f01d580-7292-11e9-89d4-d564fc659fca.PNG)
