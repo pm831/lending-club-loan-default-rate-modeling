@@ -44,4 +44,11 @@
 ![Lending_Club_Loans_Analysis_LA_KPI](https://user-images.githubusercontent.com/19572673/57495393-e80a5780-729b-11e9-8843-381847bd0adf.PNG)
 ##### Average DTI Amount = sum(LoanData[dti])/count(LoanData[id])
 ![Lending_Club_Loans_Analysis_DTI_KPI](https://user-images.githubusercontent.com/19572673/57495390-e80a5780-729b-11e9-849d-0b7c20444de8.PNG)
-
+##### Loan Status Distribution
+![Lending_Club_Loans_Analysis_Loan_Status](https://user-images.githubusercontent.com/19572673/57498385-ada7b700-72a9-11e9-8edd-2769be9153d1.PNG)
+##### Loan Grade Distribution
+![Lending_CLub_Loans_Analysis_Loan_Grade](https://user-images.githubusercontent.com/19572673/57498384-ada7b700-72a9-11e9-8188-53db4fefd16e.PNG)
+##### Employer Length Distribution
+![Lending_Club_Loans_Analysis_EL](https://user-images.githubusercontent.com/19572673/57498383-ada7b700-72a9-11e9-9c19-5ce61d21168d.PNG)
+##### Home Ownership Distribution
+![Lending_Club_Home_Ownership](https://user-images.githubusercontent.com/19572673/57498382-ada7b700-72a9-11e9-957f-6f2523d9f6c1.PNG)
