@@ -52,3 +52,9 @@
 ![Lending_Club_Loans_Analysis_EL](https://user-images.githubusercontent.com/19572673/57498383-ada7b700-72a9-11e9-9c19-5ce61d21168d.PNG)
 ##### Home Ownership Distribution
 ![Lending_Club_Home_Ownership](https://user-images.githubusercontent.com/19572673/57498382-ada7b700-72a9-11e9-957f-6f2523d9f6c1.PNG)
+#### Loan Purpose
+![Lending_Club_Loan_Purpose](https://user-images.githubusercontent.com/19572673/60401056-14c74680-9b4a-11e9-9298-f67a17c114ba.PNG)
+#### Word Cloud
+
+#### Monthly Trend
+
