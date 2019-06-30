@@ -10,18 +10,27 @@
 ## Basic Steps:
 #### Downloaded the dataset. 
 #### Categorical slicers include State, Zip, ID, Term, Grade, Sub-Grade, Employer, Employer Length, Home Ownership, Verification Status, Loan Status, Loan Purpose. Numerical slicer includes the 'date range' (where you can slide accordingly)
-##### State: 
-##### Zip: 
-##### ID:
+
+##### State: All States displayed
+##### Zip: Only first 3 digits of Zip displayed use to confidentiality purposes
+##### ID: Unique ID assigned to each transaction
 ##### Term: 
+![Lending_Club_loansterms](https://user-images.githubusercontent.com/19572673/60403203-3cc5a280-9b68-11e9-94b8-878471b4bd05.PNG)
 ##### Grade:
+![Lending_Club_loansgrade](https://user-images.githubusercontent.com/19572673/60403198-3cc5a280-9b68-11e9-850a-23aa8412bcd7.PNG)
 ##### Sub-Grade:
+![Lending_Club_loanssubgrades](https://user-images.githubusercontent.com/19572673/60403202-3cc5a280-9b68-11e9-9416-26eb85565789.PNG)
 ##### Employer:
 ##### Employer Length:
+![Lending_Club_loansEL](https://user-images.githubusercontent.com/19572673/60403197-3cc5a280-9b68-11e9-9e50-0ee6248fc9ef.PNG)
 ##### Home Ownership:
+![lending_club_loansHO](https://user-images.githubusercontent.com/19572673/60403199-3cc5a280-9b68-11e9-9a7a-53dc6c11df51.PNG)
 ##### Verification Status:
+![lending_club_loansVS](https://user-images.githubusercontent.com/19572673/60403204-3cc5a280-9b68-11e9-8dfd-3ca16760d293.PNG)
 ##### Loan Status:
+![lending_club_loansls](https://user-images.githubusercontent.com/19572673/60403200-3cc5a280-9b68-11e9-863d-3dec2097c545.PNG)
 ##### Loan Purpose:
+![lending_club_loanspurpose](https://user-images.githubusercontent.com/19572673/60403201-3cc5a280-9b68-11e9-8e63-c018555cd65e.PNG)
 ##### Date Range:
 ![Lending_Club_Loans_Analysis_Slicers](https://user-images.githubusercontent.com/19572673/57423158-d4e68180-71e0-11e9-9f81-4caaeed99774.PNG)
 #### Tabular reports include by State, Zip, Loan Grade, Loan Sub-Grade Metrics, Employer Length, Home Ownership, Loan Purpose, Loan Status, and by specific ID. 
