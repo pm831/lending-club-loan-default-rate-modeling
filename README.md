@@ -55,6 +55,7 @@
 #### Loan Purpose
 ![Lending_Club_Loan_Purpose](https://user-images.githubusercontent.com/19572673/60401056-14c74680-9b4a-11e9-9298-f67a17c114ba.PNG)
 #### Word Cloud
-
+![Lending_Club_Monthly_Trend](https://user-images.githubusercontent.com/19572673/60401067-3e806d80-9b4a-11e9-8927-4ce829cac2b8.PNG)
 #### Monthly Trend
+![Lending_Club_WordCloud](https://user-images.githubusercontent.com/19572673/60401068-3e806d80-9b4a-11e9-8cae-e2063cb9aa2e.PNG)
 
