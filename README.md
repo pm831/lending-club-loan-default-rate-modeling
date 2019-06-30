@@ -20,7 +20,7 @@
 ![Lending_Club_loansgrade](https://user-images.githubusercontent.com/19572673/60403198-3cc5a280-9b68-11e9-850a-23aa8412bcd7.PNG)
 ##### Sub-Grade:
 ![Lending_Club_loanssubgrades](https://user-images.githubusercontent.com/19572673/60403202-3cc5a280-9b68-11e9-9416-26eb85565789.PNG)
-##### Employer:
+##### Employer: Unique Name of Employer
 ##### Employer Length:
 ![Lending_Club_loansEL](https://user-images.githubusercontent.com/19572673/60403197-3cc5a280-9b68-11e9-9e50-0ee6248fc9ef.PNG)
 ##### Home Ownership:
