@@ -2,7 +2,9 @@
 # Lending Club Loans Data Exploration
 ![Lending_Club_Loans_Analysis](https://user-images.githubusercontent.com/19572673/57266477-155fc700-704a-11e9-88f3-afe81df3606c.PNG)
 ## Abstract:
+
 ## Company Information:
+LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. Lending Club operates an online lending platform that enables borrowers to obtain a loan, and investors to purchase notes backed by payments made on loans. Lending Club is the world's largest peer-to-peer lending platform. (from Wikipedia).
 ## Use Case:
 ### Figuring out specific causes of loan defaults by specific factors to make better long term decisions
 ## Initial Dataset:
