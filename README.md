@@ -1,3 +1,4 @@
+![Lending_Club_logo](https://user-images.githubusercontent.com/19572673/62312068-3f633280-b45b-11e9-98b8-91894e557d60.png)
 # Lending Club Loans Data Exploration
 ![Lending_Club_Loans_Analysis](https://user-images.githubusercontent.com/19572673/57266477-155fc700-704a-11e9-88f3-afe81df3606c.PNG)
 
