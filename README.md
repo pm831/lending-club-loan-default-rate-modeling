@@ -9,6 +9,9 @@ LendingClub enables borrowers to create unsecured personal loans between $1,000 
 LendingClub also makes traditional direct to consumer loans, including automobile refinance transactions, through WebBank, an FDIC-insured, state-chartered industrial bank that is headquartered in Salt Lake City Utah. The loans are not funded by investors but are assigned to other financial institutions.The company raised $1 billion in what became the largest technology IPO of 2014 in the United States. 
 ##### https://en.wikipedia.org/wiki/LendingClub
 
+## Industry:
+### Financial Services/Internet
+
 ## Company Information:
 LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform. The company claims that $15.98 billion in loans had been originated through its platform up to December 31, 2015.
 
