@@ -1,4 +1,4 @@
-# Lending Club Loans Data Exploration
+# Lending Club Loan Default Rate Modeling
 ### Pujan Malavia
 
 ![Lending_Club_logo](https://user-images.githubusercontent.com/19572673/62312068-3f633280-b45b-11e9-98b8-91894e557d60.png)
