@@ -52,8 +52,6 @@ Grade:
 
 Sub-Grade:
 
-![Lending_Club_loanssubgrades](https://user-images.githubusercontent.com/19572673/60403202-3cc5a280-9b68-11e9-9416-26eb85565789.PNG)
-
 Employer: Unique Name of Employer
 
 Employer Length:
