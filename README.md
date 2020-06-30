@@ -58,23 +58,13 @@ Employer: Unique Name of Employer
 
 Employer Length:
 
-Lending_Club_loansEL](https://user-images.githubusercontent.com/19572673/60403197-3cc5a280-9b68-11e9-9e50-0ee6248fc9ef.PNG)
-
 Home Ownership:
-
-![lending_club_loansHO](https://user-images.githubusercontent.com/19572673/60403199-3cc5a280-9b68-11e9-9a7a-53dc6c11df51.PNG)
 
 Verification Status:
 
-![lending_club_loansVS](https://user-images.githubusercontent.com/19572673/60403204-3cc5a280-9b68-11e9-8dfd-3ca16760d293.PNG)
-
 Loan Status:
 
-![lending_club_loansls](https://user-images.githubusercontent.com/19572673/60403200-3cc5a280-9b68-11e9-863d-3dec2097c545.PNG)
-
 Loan Purpose:
-
-![lending_club_loanspurpose](https://user-images.githubusercontent.com/19572673/60403201-3cc5a280-9b68-11e9-8e63-c018555cd65e.PNG)
 
 Date Range:
 
