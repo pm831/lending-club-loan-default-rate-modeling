@@ -42,7 +42,15 @@ K nearest neighbors
 
 ![Lending_Club_Loans_Analysis](https://user-images.githubusercontent.com/19572673/57266477-155fc700-704a-11e9-88f3-afe81df3606c.PNG)
 
-### Basic Steps:
+### Data Curation Process:
+
+Data Preparation/Data Visualization
+
+Python (Jupyter Notebook) Visualization:
+
+
+
+PowerBI Data Visualization (subsample of data):
 
 Downloaded the dataset. 
 
