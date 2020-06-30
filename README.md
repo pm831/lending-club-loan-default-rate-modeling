@@ -40,8 +40,6 @@ Random Forest
 
 K nearest neighbors
 
-![Lending_Club_Loans_Analysis](https://user-images.githubusercontent.com/19572673/57266477-155fc700-704a-11e9-88f3-afe81df3606c.PNG)
-
 ### Data Curation Process:
 
 Data Preparation/Data Visualization
@@ -113,6 +111,8 @@ Python (Jupyter Notebook) Visualization:
 ![output_253_1](https://user-images.githubusercontent.com/19572673/86076266-bf24c300-ba57-11ea-8600-48f0b775cd36.png)
 
 PowerBI Data Visualization (subsample of data):
+
+![Lending_Club_Loans_Analysis](https://user-images.githubusercontent.com/19572673/57266477-155fc700-704a-11e9-88f3-afe81df3606c.PNG)
 
 Downloaded the dataset. 
 
