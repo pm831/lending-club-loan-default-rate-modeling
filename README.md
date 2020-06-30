@@ -48,11 +48,7 @@ ID: Unique ID assigned to each transaction
 
 Term: 
 
-![Lending_Club_loansterms](https://user-images.githubusercontent.com/19572673/60403203-3cc5a280-9b68-11e9-94b8-878471b4bd05.PNG)
-
 Grade:
-
-![Lending_Club_loansgrade](https://user-images.githubusercontent.com/19572673/60403198-3cc5a280-9b68-11e9-850a-23aa8412bcd7.PNG)
 
 Sub-Grade:
 
