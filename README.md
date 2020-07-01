@@ -128,125 +128,125 @@ FICO
 
 ![output_109_1](https://user-images.githubusercontent.com/19572673/86076222-b92ee200-ba57-11ea-8141-19a343876c1f.png)
 
+FICO Range (Low), FICO Range (High), FICO Score
 
 ![output_110_0](https://user-images.githubusercontent.com/19572673/86076223-b92ee200-ba57-11ea-9496-a789657d7c31.png)
 
-
+3D Plot (FICO Score vs. Length of of the earliest Credit Line (Months to today) vs. Debt to Income)
 
 ![output_116_1](https://user-images.githubusercontent.com/19572673/86076224-b92ee200-ba57-11ea-9d1a-126ff4756e57.png)
 
-
+Plot (FICO Score vs. Length of of the earliest Credit Line (Months to today) vs. Debt to Income)
 
 ![output_117_1](https://user-images.githubusercontent.com/19572673/86076226-b9c77880-ba57-11ea-81f9-e4337ee6c1d0.png)
 
-
+Plot (FICO Score vs. Int. Rate by Term - 36 month vs. 60 month)
 
 ![output_119_1](https://user-images.githubusercontent.com/19572673/86076227-b9c77880-ba57-11ea-99b0-3e481ff94bb7.png)
 
-
+Derogatory Public Records
 
 ![output_123_0](https://user-images.githubusercontent.com/19572673/86076228-ba600f00-ba57-11ea-9fbd-1b045596a60f.png)
 
 ![output_123_1](https://user-images.githubusercontent.com/19572673/86076229-ba600f00-ba57-11ea-8ff7-790d7cfabb9d.png)
 
-
+Derogatory Public Records (Better view)
 
 ![output_127_0](https://user-images.githubusercontent.com/19572673/86076230-ba600f00-ba57-11ea-82f5-0774bb218caa.png)
 
 ![output_127_1](https://user-images.githubusercontent.com/19572673/86076231-ba600f00-ba57-11ea-8fb1-18f11bff1dab.png)
 
-
+Number of public record bankruptcies
 
 ![output_129_0](https://user-images.githubusercontent.com/19572673/86076232-baf8a580-ba57-11ea-8065-ba37a662e6f6.png)
 
 ![output_129_1](https://user-images.githubusercontent.com/19572673/86076233-baf8a580-ba57-11ea-8a22-8dbeb1d236fa.png)
 
-
+Log10 total credit revolving balance
 
 ![output_133_0](https://user-images.githubusercontent.com/19572673/86076234-baf8a580-ba57-11ea-856a-0320d95aaafa.png)
 
 ![output_133_1](https://user-images.githubusercontent.com/19572673/86076236-baf8a580-ba57-11ea-809e-fcfe4fa5588f.png)
 
-
+Revolving line utilization rate
 
 ![output_135_0](https://user-images.githubusercontent.com/19572673/86076237-baf8a580-ba57-11ea-8d90-1f82e6747b01.png)
 
 ![output_135_1](https://user-images.githubusercontent.com/19572673/86076238-bb913c00-ba57-11ea-9578-bc2755bee33c.png)
 
-
+Total Number of Credit Lines
 
 ![output_138_0](https://user-images.githubusercontent.com/19572673/86076239-bb913c00-ba57-11ea-871e-6163a64b25c1.png)
 
 ![output_138_1](https://user-images.githubusercontent.com/19572673/86076241-bb913c00-ba57-11ea-816c-2ef8f26f100d.png)
 
-
+Initial listing status of the loan
 
 ![output_140_0](https://user-images.githubusercontent.com/19572673/86076242-bb913c00-ba57-11ea-84a7-f95f9ee37e19.png)
 
 ![output_140_1](https://user-images.githubusercontent.com/19572673/86076243-bc29d280-ba57-11ea-90ab-0b19a7148013.png)
 
-
+Application Type
 
 ![output_144_0](https://user-images.githubusercontent.com/19572673/86076244-bc29d280-ba57-11ea-9d63-0ebff7ebd1c6.png)
 
 ![output_144_1](https://user-images.githubusercontent.com/19572673/86076245-bc29d280-ba57-11ea-8c48-39f4360fab15.png)
 
-
+Month Since oldest installment account opened
 
 ![output_146_0](https://user-images.githubusercontent.com/19572673/86076246-bcc26900-ba57-11ea-8069-99ee0f652d92.png)
 
 ![output_146_1](https://user-images.githubusercontent.com/19572673/86076248-bcc26900-ba57-11ea-9e78-0e7dd16baa70.png)
 
-
+Months since oldest revolving account opened
 
 ![output_148_0](https://user-images.githubusercontent.com/19572673/86076249-bd5aff80-ba57-11ea-86dc-224487caf563.png)
 
 ![output_148_1](https://user-images.githubusercontent.com/19572673/86076250-bd5aff80-ba57-11ea-95ef-ccfda29b3d44.png)
 
-
+Number of mortgage accounts
 
 ![output_150_0](https://user-images.githubusercontent.com/19572673/86076251-bd5aff80-ba57-11ea-9076-2d4aea15e29a.png)
 
 ![output_150_1](https://user-images.githubusercontent.com/19572673/86076253-bd5aff80-ba57-11ea-847f-d75bb932aceb.png)
 
-
+Number of mortgage accounts
 
 ![output_152_0](https://user-images.githubusercontent.com/19572673/86076254-bd5aff80-ba57-11ea-8cd5-56e5f83be394.png)
 
 ![output_152_1](https://user-images.githubusercontent.com/19572673/86076255-bdf39600-ba57-11ea-92e3-39598a07525f.png)
 
-
+Numeric variables correlation plot
 
 ![output_162_0](https://user-images.githubusercontent.com/19572673/86076256-bdf39600-ba57-11ea-80b5-cacf57d95528.png)
 
-
+Loans funded per Year
 
 ![output_184_1](https://user-images.githubusercontent.com/19572673/86076257-bdf39600-ba57-11ea-8ca5-3a4c2984938d.png)
 
-
+PCA
 
 ![output_201_0](https://user-images.githubusercontent.com/19572673/86076259-be8c2c80-ba57-11ea-8d12-31a5cee8bec3.png)
 
-
+Top 10 Features (Variable Importance Plot) 
 
 ![output_234_0](https://user-images.githubusercontent.com/19572673/86076260-be8c2c80-ba57-11ea-8e5c-6ee06774663a.png)
 
-
-
+Cross Validation AUROC Scores
 
 ![output_249_1](https://user-images.githubusercontent.com/19572673/86076262-be8c2c80-ba57-11ea-8287-de3426980d3b.png)
 
-
+ROC Curve 1
 
 ![output_251_1](https://user-images.githubusercontent.com/19572673/86076263-bf24c300-ba57-11ea-9b1b-ae7f12a06963.png)
 
+ROC Curve 2
+
 ![output_252_1](https://user-images.githubusercontent.com/19572673/86076264-bf24c300-ba57-11ea-94e3-f5da5f1265c0.png)
 
-
+ROC Curve 3
 
 ![output_253_1](https://user-images.githubusercontent.com/19572673/86076266-bf24c300-ba57-11ea-8600-48f0b775cd36.png)
-
-
 
 PowerBI Data Visualization (subsample of data):
 
