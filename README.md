@@ -46,68 +46,257 @@ Data Preparation/Data Visualization
 
 Python (Jupyter Notebook) Visualization:
 
+Loan Amount 
+
 ![output_36_0](https://user-images.githubusercontent.com/19572673/86076193-b46a2e00-ba57-11ea-96b3-4602878865b6.png)
+
+Term
+
 ![output_36_1](https://user-images.githubusercontent.com/19572673/86076194-b46a2e00-ba57-11ea-9832-ae3f73075ede.png)
+
+Interest Rate
+
 ![output_40_0](https://user-images.githubusercontent.com/19572673/86076195-b46a2e00-ba57-11ea-853e-6d71e4dfd3c2.png)
+
+Installment
+
 ![output_40_1](https://user-images.githubusercontent.com/19572673/86076196-b502c480-ba57-11ea-967d-d5e37c23048f.png)
+
+Sub-Grade
+
 ![output_44_0](https://user-images.githubusercontent.com/19572673/86076197-b502c480-ba57-11ea-9977-6472aa8a41bc.png)
+
+Grade
+
 ![output_44_1](https://user-images.githubusercontent.com/19572673/86076198-b502c480-ba57-11ea-8e67-8158d16b6322.png)
+
+Employer Length
+
 ![output_52_0](https://user-images.githubusercontent.com/19572673/86076199-b502c480-ba57-11ea-96e2-51aefc68e6b6.png)
+
+Home Ownership
+
 ![output_52_1](https://user-images.githubusercontent.com/19572673/86076200-b59b5b00-ba57-11ea-835b-61e7706cbbf5.png)
+
+Annual Income
+
 ![output_56_0](https://user-images.githubusercontent.com/19572673/86076201-b59b5b00-ba57-11ea-8190-db948985b739.png)
+
+Verification Status
+
 ![output_56_1](https://user-images.githubusercontent.com/19572673/86076202-b59b5b00-ba57-11ea-9f3a-19cad37ee99c.png)
+
+Debt to Income
+
 ![output_57_0](https://user-images.githubusercontent.com/19572673/86076203-b59b5b00-ba57-11ea-9dda-7821231f6836.png)
+
+Number of Open Credit Lines
+
 ![output_57_1](https://user-images.githubusercontent.com/19572673/86076204-b633f180-ba57-11ea-9316-8617f924453f.png)
+
+Length of of the earliest Credit Line (Months to today)
+
 ![output_69_0](https://user-images.githubusercontent.com/19572673/86076205-b633f180-ba57-11ea-898d-e035b23d7020.png)
+
+FICO Score
+
 ![output_69_1](https://user-images.githubusercontent.com/19572673/86076206-b633f180-ba57-11ea-8bc4-872b95e10523.png)
+
+FICO Range (Low), FICO Range (High), FICO Score
+
 ![output_73_0](https://user-images.githubusercontent.com/19572673/86076207-b6cc8800-ba57-11ea-99fa-8d70e7dbfcb3.png)
+
+3D Plot (FICO Score vs. Length of of the earliest Credit Line (Months to today) vs. Debt to Income)
+
 ![output_73_1](https://user-images.githubusercontent.com/19572673/86076208-b6cc8800-ba57-11ea-9f7e-7a9314be3570.png)
+
+Plot (FICO Score vs. Length of of the earliest Credit Line (Months to today) vs. Debt to Income)
+
 ![output_78_0](https://user-images.githubusercontent.com/19572673/86076210-b7651e80-ba57-11ea-82d5-cfb5ea3f368a.png)
+
+Plot (FICO Score vs. Int. Rate by Term - 36 month vs. 60 month)
+
 ![output_78_1](https://user-images.githubusercontent.com/19572673/86076211-b7651e80-ba57-11ea-85f4-b6b3a5d8396c.png)
+
+Derogatory Public Records
+
 ![output_81_0](https://user-images.githubusercontent.com/19572673/86076212-b7651e80-ba57-11ea-9288-5442206f3d7e.png)
+
+Derogatory public records (Better view)
+
 ![output_81_1](https://user-images.githubusercontent.com/19572673/86076213-b7fdb500-ba57-11ea-9f8d-5e2c500d71fa.png)
+
+Number of public record bankruptcies
+
 ![output_92_1](https://user-images.githubusercontent.com/19572673/86076214-b7fdb500-ba57-11ea-9b9c-0088fd3e7892.png)
+
+Log10 total credit revolving balance
+
 ![output_97_0](https://user-images.githubusercontent.com/19572673/86076215-b7fdb500-ba57-11ea-90ad-13970c1cbd41.png)
+
+Revolving line utilization rate
+
 ![output_97_1](https://user-images.githubusercontent.com/19572673/86076217-b8964b80-ba57-11ea-9768-7b59196a0d1d.png)
+
+Total Number of Credit Lines
+
 ![output_104_0](https://user-images.githubusercontent.com/19572673/86076218-b8964b80-ba57-11ea-8a5b-43e22b5abd74.png)
+
+Initial listing status of the loan
+
 ![output_104_1](https://user-images.githubusercontent.com/19572673/86076219-b8964b80-ba57-11ea-89cd-a85fc800d80a.png)
+
+Application Type
+
 ![output_109_0](https://user-images.githubusercontent.com/19572673/86076220-b92ee200-ba57-11ea-9765-93e3ca32cd5e.png)
+
+Month Since oldest installment account opened
+
 ![output_109_1](https://user-images.githubusercontent.com/19572673/86076222-b92ee200-ba57-11ea-8141-19a343876c1f.png)
+
+Months since oldest revolving account opened
+
 ![output_110_0](https://user-images.githubusercontent.com/19572673/86076223-b92ee200-ba57-11ea-9496-a789657d7c31.png)
+
+Number of mortgage accounts
+
 ![output_116_1](https://user-images.githubusercontent.com/19572673/86076224-b92ee200-ba57-11ea-9d1a-126ff4756e57.png)
+
+Number of mortgage accounts
+
 ![output_117_1](https://user-images.githubusercontent.com/19572673/86076226-b9c77880-ba57-11ea-81f9-e4337ee6c1d0.png)
+
+Numeric variables correlation plot 
+
 ![output_119_1](https://user-images.githubusercontent.com/19572673/86076227-b9c77880-ba57-11ea-99b0-3e481ff94bb7.png)
+
+Loans funded per Year
+
 ![output_123_0](https://user-images.githubusercontent.com/19572673/86076228-ba600f00-ba57-11ea-9fbd-1b045596a60f.png)
+
+PCA
+
 ![output_123_1](https://user-images.githubusercontent.com/19572673/86076229-ba600f00-ba57-11ea-8ff7-790d7cfabb9d.png)
+
+
+
 ![output_127_0](https://user-images.githubusercontent.com/19572673/86076230-ba600f00-ba57-11ea-82f5-0774bb218caa.png)
+
+
+
 ![output_127_1](https://user-images.githubusercontent.com/19572673/86076231-ba600f00-ba57-11ea-8fb1-18f11bff1dab.png)
+
+
+
 ![output_129_0](https://user-images.githubusercontent.com/19572673/86076232-baf8a580-ba57-11ea-8065-ba37a662e6f6.png)
+
+
+
 ![output_129_1](https://user-images.githubusercontent.com/19572673/86076233-baf8a580-ba57-11ea-8a22-8dbeb1d236fa.png)
+
+
+
 ![output_133_0](https://user-images.githubusercontent.com/19572673/86076234-baf8a580-ba57-11ea-856a-0320d95aaafa.png)
+
+
+
 ![output_133_1](https://user-images.githubusercontent.com/19572673/86076236-baf8a580-ba57-11ea-809e-fcfe4fa5588f.png)
+
+
+
 ![output_135_0](https://user-images.githubusercontent.com/19572673/86076237-baf8a580-ba57-11ea-8d90-1f82e6747b01.png)
+
+
+
 ![output_135_1](https://user-images.githubusercontent.com/19572673/86076238-bb913c00-ba57-11ea-9578-bc2755bee33c.png)
+
+
+
 ![output_138_0](https://user-images.githubusercontent.com/19572673/86076239-bb913c00-ba57-11ea-871e-6163a64b25c1.png)
+
+
+
 ![output_138_1](https://user-images.githubusercontent.com/19572673/86076241-bb913c00-ba57-11ea-816c-2ef8f26f100d.png)
+
+
+
 ![output_140_0](https://user-images.githubusercontent.com/19572673/86076242-bb913c00-ba57-11ea-84a7-f95f9ee37e19.png)
+
+
+
 ![output_140_1](https://user-images.githubusercontent.com/19572673/86076243-bc29d280-ba57-11ea-90ab-0b19a7148013.png)
+
+
+
 ![output_144_0](https://user-images.githubusercontent.com/19572673/86076244-bc29d280-ba57-11ea-9d63-0ebff7ebd1c6.png)
+
+
+
 ![output_144_1](https://user-images.githubusercontent.com/19572673/86076245-bc29d280-ba57-11ea-8c48-39f4360fab15.png)
+
+
+
 ![output_146_0](https://user-images.githubusercontent.com/19572673/86076246-bcc26900-ba57-11ea-8069-99ee0f652d92.png)
+
+
+
 ![output_146_1](https://user-images.githubusercontent.com/19572673/86076248-bcc26900-ba57-11ea-9e78-0e7dd16baa70.png)
+
+
+
 ![output_148_0](https://user-images.githubusercontent.com/19572673/86076249-bd5aff80-ba57-11ea-86dc-224487caf563.png)
+
+
+
 ![output_148_1](https://user-images.githubusercontent.com/19572673/86076250-bd5aff80-ba57-11ea-95ef-ccfda29b3d44.png)
+
+
+
 ![output_150_0](https://user-images.githubusercontent.com/19572673/86076251-bd5aff80-ba57-11ea-9076-2d4aea15e29a.png)
+
+
+
 ![output_150_1](https://user-images.githubusercontent.com/19572673/86076253-bd5aff80-ba57-11ea-847f-d75bb932aceb.png)
+
+
+
 ![output_152_0](https://user-images.githubusercontent.com/19572673/86076254-bd5aff80-ba57-11ea-8cd5-56e5f83be394.png)
+
+
+
 ![output_152_1](https://user-images.githubusercontent.com/19572673/86076255-bdf39600-ba57-11ea-92e3-39598a07525f.png)
+
+
+
 ![output_162_0](https://user-images.githubusercontent.com/19572673/86076256-bdf39600-ba57-11ea-80b5-cacf57d95528.png)
+
+
+
 ![output_184_1](https://user-images.githubusercontent.com/19572673/86076257-bdf39600-ba57-11ea-8ca5-3a4c2984938d.png)
+
+
+
 ![output_201_0](https://user-images.githubusercontent.com/19572673/86076259-be8c2c80-ba57-11ea-8d12-31a5cee8bec3.png)
+
+
+
 ![output_234_0](https://user-images.githubusercontent.com/19572673/86076260-be8c2c80-ba57-11ea-8e5c-6ee06774663a.png)
+
+
+
+
 ![output_249_1](https://user-images.githubusercontent.com/19572673/86076262-be8c2c80-ba57-11ea-8287-de3426980d3b.png)
+
+
+
 ![output_251_1](https://user-images.githubusercontent.com/19572673/86076263-bf24c300-ba57-11ea-9b1b-ae7f12a06963.png)
+
+
+
 ![output_252_1](https://user-images.githubusercontent.com/19572673/86076264-bf24c300-ba57-11ea-94e3-f5da5f1265c0.png)
+
+
+
 ![output_253_1](https://user-images.githubusercontent.com/19572673/86076266-bf24c300-ba57-11ea-8600-48f0b775cd36.png)
 
 PowerBI Data Visualization (subsample of data):
@@ -118,47 +307,9 @@ Downloaded the dataset.
 
 Categorical slicers include State, Zip, ID, Term, Grade, Sub-Grade, Employer, Employer Length, Home Ownership, Verification Status, Loan Status, Loan Purpose. Numerical slicer includes the 'date range' (where you can slide accordingly)
 
-State: All States displayed
-
-Zip: Only first 3 digits of Zip displayed use to confidentiality purposes
-
-ID: Unique ID assigned to each transaction
-
-Term: 
-
-Grade:
-
-Sub-Grade:
-
-Employer: Unique Name of Employer
-
-Employer Length:
-
-Home Ownership:
-
-Verification Status:
-
-Loan Status:
-
-Loan Purpose:
-
-Date Range:
-
 ![Lending_Club_Loans_Analysis_Slicers](https://user-images.githubusercontent.com/19572673/57423158-d4e68180-71e0-11e9-9f81-4caaeed99774.PNG)
 
 Tabular reports include by State, Zip, Loan Grade, Loan Sub-Grade Metrics, Employer Length, Home Ownership, Loan Purpose, Loan Status, and by specific ID. 
-
-State Metrics:
-
-Zip Metrics:
-
-Loan Grade Metrics:
-
-Loan Sub-Grade Metrics:
-
-Employer Length Metrics:
-
-Home Ownership Metrics:
 
 ![Lending_Club_Loans_Analysis_Reports](https://user-images.githubusercontent.com/19572673/57493298-52b69580-7292-11e9-9f7a-377d8807c6a4.PNG)
 
